@@ -1,0 +1,67 @@
+body {
+	background-image: url("صورتی.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+p {
+	text-align: center;
+	font-size: 52px;
+	font-weight: bold;
+	color: #000;
+}
+.main {
+	position: relative;
+	background-color: #7c6088;
+	width: 70%;
+	height: 850px;
+	margin: 0 auto;
+	border-radius: 35px;
+	margin-top: -5px;
+}
+.box {
+	background-color: #e6dbeb;
+	border-radius: 35px;
+	width: 83%;
+	height: 92px;
+	margin-top: 65px;
+	margin-left: 65px;
+}
+.text {
+	text-decoration: none;
+	color: #000;
+	font-size: 46px;
+	font-weight: bold;
+	text-align: center;
+}
+.text-1 {
+	text-align: center;
+	color: #000;
+	font-size: 50px;
+	font-weight: bold;
+	margin-top:230px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
